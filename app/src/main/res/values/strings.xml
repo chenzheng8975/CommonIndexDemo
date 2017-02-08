@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">快知</string>
+
+    <string name="no_data_prompt">亲，暂无数据哦</string>
+
+    <string name="nomore_loading">亲，没有更多数据了</string>
+</resources>

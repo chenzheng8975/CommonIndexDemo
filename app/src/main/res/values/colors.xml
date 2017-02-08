@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="blue">#18B4ED</color>
+    <color name="line">#E2E2E2</color>
+
+    <color name="line_gray">#ECECEC</color>
+    <color name="common_gray3">#333333</color>
+    <color name="common_gray6">#666666</color>
+    <color name="common_gray8">#888888</color>
+    <color name="common_gray9">#999999</color>
+
+    <color name="colorPrimary">#00B28A</color>
+    <color name="colorPrimaryDark">#00B28A</color>
+    <color name="colorAccent">#00B28A</color>
+
+    <color name="cyan_500">#00bcd4</color>
+    <color name="bg_color">#F4F4F4</color>
+    <!-- 文字颜色 -->
+    <color name="text_default">#212121</color>
+    <color name="hint_gray">#cccccc</color>
+
+    <color name="rippelColor">#dddddd</color>
+
+    <drawable name="layout_bg_white_normal">#ffffff</drawable>
+    <drawable name="layout_bg_white_press">#dddddd</drawable>
+    <drawable name="layout_bg_color_normal">#F4F4F4</drawable>
+    <drawable name="layout_bg_color_press">#e4e4e4</drawable>
+    <drawable name="layout_bg_theme_normal">#00B28A</drawable>
+    <drawable name="layout_bg_theme_press">#009070</drawable>
+
+    <color name="split">#cccccc</color>
+    <color name="dark">#5e5656</color>
+</resources>
