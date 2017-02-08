@@ -20,7 +20,7 @@ compile 'com.lzy.widget:ninegridview:0.2.0'
 
 自动注解butterknife库等等
 
-![image](https://github.com/chenzheng8975/CommonIndexDemo/tree/master/screenshots/20170119172805214.gif)
-![image](https://github.com/chenzheng8975/CommonIndexDemo/tree/master/screenshots/20170119172825402.gif)
-![image](https://github.com/chenzheng8975/CommonIndexDemo/tree/master/screenshots/20170119172843271.gif)
-![image](https://github.com/chenzheng8975/CommonIndexDemo/tree/master/screenshots/20170119172902381.gif)
+![image](https://github.com/chenzheng8975/CommonIndexDemo/raw/master/screenshots/20170119172805214.gif)
+![image](https://github.com/chenzheng8975/CommonIndexDemo/raw/master/screenshots/20170119172825402.gif)
+![image](https://github.com/chenzheng8975/CommonIndexDemo/raw/master/screenshots/20170119172843271.gif)
+![image](https://github.com/chenzheng8975/CommonIndexDemo/raw/master/screenshots/20170119172902381.gif)
